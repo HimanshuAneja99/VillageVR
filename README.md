@@ -17,7 +17,7 @@ This project can be viewed by anyone having a simple Head Mounted Display like G
 * Virtual Studio Code which is a IDE developed by Microsoft was used for coding various scripts to add interactivity to the VR Environment.
 
 ### Blender
-* I used Blender to create some of the 3D assets used in the environement. 
+* I used Blender to create some of the 3D assets used in the environment. 
 
 ## 3D VR Environment
 I wanted to create an environment that should sustain my hardware requirements but still also allow user to properly experience VR. So, I decided to create a open environment consisting of Green Terrains, Mountains, and buildings. I created some of these assets using Unity, Blender, and some were imported from the Unity Asset Store.
